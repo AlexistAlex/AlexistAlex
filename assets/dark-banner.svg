@@ -60,5 +60,5 @@
   <!-- name -->
   <text class="name" x="470" y="112" text-anchor="middle" font-family="'Palatino Linotype', 'Book Antiqua', Georgia, serif" font-size="54" font-style="italic" letter-spacing="3" fill="#8b0000" filter="url(#textGlow)">AlexistAlex</text>
   <line x1="300" y1="130" x2="640" y2="130" stroke="#3b0000" stroke-width="1"/>
-  <text class="sub" x="470" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" letter-spacing="2" fill="#9a9a9a">// coding in the dark</text>
+  <text class="sub" x="470" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" letter-spacing="2" fill="#9a9a9a">// Java · Kotlin · C++</text>
 </svg>
