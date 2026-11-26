@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3500&pause=1200&color=B30000&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Alex;Student+from+Germany;Java+background,+learning+Kotlin;Tinkering+with+Arduino+%26+C%2B%2B;Coding+in+the+dark..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3500&pause=1200&color=B30000&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Alex;Student+from+Germany;Java+background,+learning+Kotlin;Tinkering+with+Arduino+%26+C%2B%2B;Codewars+kata+collector" alt="Typing SVG" />
 </p>
 
 <p align="center">
