@@ -1,11 +1,11 @@
-<!-- Header -->
+<!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1a0000,100:8b0000&height=200&section=header&text=AlexistAlex&fontSize=55&fontColor=e6e6e6&animation=twinkling&fontAlignY=36&desc=written%20in%20code,%20sealed%20in%20darkness&descAlignY=58&descSize=16" alt="Header" />
+  <img src="assets/dark-banner.svg" alt="AlexistAlex" width="100%" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3500&pause=1200&color=B30000&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Alex;Student+from+Germany;Learning+Kotlin,+one+kata+at+a+time;Tinkering+with+Arduino+%26+C%2B%2B;Coding+in+the+dark..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3500&pause=1200&color=B30000&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Alex;Student+from+Germany;Java+background,+learning+Kotlin;Tinkering+with+Arduino+%26+C%2B%2B;Coding+in+the+dark..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 
 ### ✒️ About me
 
+- ☕ Already have some experience with **Java**
 - 🌱 Currently learning **Kotlin**, my practice lives in **[Kotlin-Exercises](https://github.com/AlexistAlex/Kotlin-Exercises)**
 - ⚔️ Sharpening my skills with katas on **Codewars**
 - 🕯️ Most productive after dark
@@ -26,6 +27,7 @@
 ### 🗡️ Tech stack
 
 <p>
+  <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=b30000" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=b30000" alt="Kotlin" />
   <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=b30000" alt="C++" />
   <img src="https://img.shields.io/badge/Arduino-0d0d0d?style=for-the-badge&logo=arduino&logoColor=b30000" alt="Arduino" />
